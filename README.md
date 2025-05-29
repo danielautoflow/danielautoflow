@@ -1,9 +1,10 @@
 ## Hi there 👋
 
+- 🎯 Senior Full-Stack | AI, Web3 & Web, Mobile Solutions
 - 🔭 I’m currently working on business workflow automation
-- 🌱 I’m currently learning Make.com, Zapier, n8n, and AI integration
+- 🌱 I’m currently diggin Make.com, Zapier, n8n
 - 💬 Ask me about workflow automation
-- 📫 How to reach me: danielkowalskibusiness@gmail.com
+- 📫 Let's connect: [![LinkedIn](https://img.shields.io/badge/-LinkedIn-blue?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/daniel-kowalski-125727364/)
 - 😄 Pronouns: He/him
 <!--
 **danielautoflow/danielautoflow** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
