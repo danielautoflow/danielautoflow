@@ -2,7 +2,7 @@
 
 - 🎯 Senior Full-Stack | AI, Web3 & Web, Mobile Solutions
 - 🔭 I’m currently working on business workflow automation
-- 🌱 I’m currently diggin Make.com, Zapier, n8n
+- 🌱 I’m currently digging into Make.com, Zapier, n8n
 - 💬 Ask me about workflow automation
 - 📫 Let's connect: [![LinkedIn](https://img.shields.io/badge/-LinkedIn-blue?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/daniel-kowalski-125727364/)
 - 😄 Pronouns: He/him
